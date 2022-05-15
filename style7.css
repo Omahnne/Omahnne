@@ -1,0 +1,15 @@
+#navbar {
+    width: 100%;
+    overflow: auto
+  }
+  body{background-color:rgb(5, 5, 31) ;}
+#navbar a{text-decoration: none;
+          float: left;
+          padding-left: 35px;
+          color:rgb(24, 148, 185);
+          font-size: 17px}
+#navbar {position:relative;
+            left:70% ;
+            bottom: 50px;}
+#navbar a:hover {
+                color: wheat;}
